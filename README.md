@@ -1,2 +1,15 @@
-# Arduino-IoMT-VitalSigns
-Firmware, hardware schematics, datasets and analysis scripts supporting the manuscript: "Design and Pilot Validation of a Low-Cost Arduino-Based IoMT Platform for Multisensor Vital Sign Monitoring"
+## Current repository status
+
+The repository is under active development.
+
+Currently available:
+
+- Experimental datasets used during manuscript preparation.
+
+The following resources will be uploaded upon manuscript acceptance:
+
+- Arduino firmware
+- Hardware schematics
+- Bill of Materials (BOM)
+- Analysis scripts
+- Assembly documentation
